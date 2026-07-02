@@ -1,8 +1,6 @@
 ##  Fancy seeing you here!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am **Hayam Mostafa**, an Information Technology student and an aspiring **Mern Stack Web Developer** from Egypt. I'm passionate about building modern web applications, solving real-world problems, and continuously improving my development skills. I'm always excited to learn new technologies and collaborate on innovative projects.
-
-Feel free to connect with me:
+I am **Hayam Mostafa**, an Information Technology student and an aspiring **Mern Stack Web Developer** from Egypt. I'm passionate about building modern web applications, solving real-world problems, and continuously improving my development skills. I'm always excited to learn new technologies and collaborate on innovative projects.Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hiam%20Mostafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayam-mostafa-a617092a8/)](https://www.linkedin.com/in/hayam-mostafa-a617092a8/)
 [![Gmail Badge](https://img.shields.io/badge/-hiammostafa545@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiammostafa545@gmail.com)](mailto:hiammostafa545@gmail.com)
