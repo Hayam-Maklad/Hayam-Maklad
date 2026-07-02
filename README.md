@@ -1,6 +1,6 @@
 ##  Fancy seeing you here!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am **Hayam Mostafa**, an information Technology student and an aspiring **Mern Stack Web Developer** from Egypt. I'm passionate about building modern web applications, solving real-world problems, and continuously improving my development skills. I'm always excited to learn new technologies and collaborate on innovative projects.
+I am **Hayam Mostafa**, an Information Technology student and an aspiring **Mern Stack Web Developer** from Egypt. I'm passionate about building modern web applications, solving real-world problems, and continuously improving my development skills. I'm always excited to learn new technologies and collaborate on innovative projects.
 
 Feel free to connect with me:
 
