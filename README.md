@@ -30,7 +30,7 @@ Feel free to connect with me:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hayam-Maklad&count_private=true&show_icons=true&include_all_commits=true)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hayam-Maklad&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayam-Maklad&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hayam-Maklad&theme=tokyonight)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
