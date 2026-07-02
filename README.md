@@ -5,10 +5,7 @@ I am **Hayam Mostafa**, an Information Technology student and an aspiring **Mern
 Feel free to connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hiam%20Mostafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayam-mostafa-a617092a8/)](https://www.linkedin.com/in/hayam-mostafa-a617092a8/)
-
 [![Gmail Badge](https://img.shields.io/badge/-hiammostafa545@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiammostafa545@gmail.com)](mailto:hiammostafa545@gmail.com)
-
-
 
 ## ⚡ Technologies
 
@@ -26,9 +23,6 @@ Feel free to connect with me:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-
-
-
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hayam-Maklad&theme=tokyonight)
 
