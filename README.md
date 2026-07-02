@@ -32,6 +32,5 @@ Feel free to connect with me:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hayam-Maklad&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hayam-Maklad&show_icons=true&theme=tokyonight)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
