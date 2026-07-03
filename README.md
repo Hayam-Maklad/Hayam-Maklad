@@ -22,6 +22,8 @@ I am **Hayam Mostafa**, an Information Technology student and an aspiring **Mern
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Hayam-Maklad&theme=tokyonight)
+
+### 📊 GitHub Status :
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hayam-Maklad&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true" height="160"/><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Hayam-Maklad&layout=compact&theme=dark&border_radius=10&langs_count=999" height="160"/><img src="https://streak-stats.demolab.com?user=CodeWithAtwaa&theme=dark&border_radius=10" height="160"/></p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
