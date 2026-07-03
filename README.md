@@ -30,4 +30,9 @@ I am **Hayam Mostafa**, an Information Technology student and an aspiring **Mern
   <img width="390" src="https://streak-stats.demolab.com?user=Hayam-Maklad&theme=dark&border_radius=10" />
 </p>
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hayam-Maklad&theme=github-dark&hide_border=true" width="100%"/>
+</p>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
